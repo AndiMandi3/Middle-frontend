@@ -1,5 +1,5 @@
 export const RouteName = {
-  MAIN_PAGE: "MainPage"
+  MAIN_PAGE: "MainPage",
 } as const;
 
 export const RouteTitle = {
